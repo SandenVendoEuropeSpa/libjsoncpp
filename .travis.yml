@@ -2,5 +2,5 @@
 language: cpp
 compiler: gcc
 #script: cmake . && make
-script: scons linux-gcc
+script: scons --platform linux-gcc
 
