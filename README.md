@@ -77,6 +77,12 @@ of the 'jsontest' executable that was compiled on your platform.
 	You can run the tests using valgrind:
 	python rununittests.py --valgrind "path to test_lib_json.exe"
 
+# Building with CMake
+Alternatevly the core library can be build with CMake 2.8:
+
+  - Install [CMake](http://www.cmake.org/files/v2.8/cmake-2.8.10.2-win32-x86.exe)
+  - Run ```bootstrap.bat```
+    
 
 # Building the documentation
 
