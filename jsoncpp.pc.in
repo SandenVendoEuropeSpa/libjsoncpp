@@ -8,5 +8,6 @@ Description: Library to manipulate JSON value
 URL: https://github.com/okigan/jsoncpp
 Version: 0.6.0
 Requires:
-Libs:
-Cflags:
+Libs: -L${libdir} -ljsoncpp
+Libs.private:
+Cflags: -I${includedir}

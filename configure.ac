@@ -28,13 +28,4 @@ AM_PROG_AR
 LT_INIT
 AC_PROG_LIBTOOL
 
-
-# Checks for libraries.
-
-# Checks for header files.
-
-# Checks for typedefs, structures, and compiler characteristics.
-
-# Checks for library functions.
-
 AC_OUTPUT
