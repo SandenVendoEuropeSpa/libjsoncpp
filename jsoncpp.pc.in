@@ -10,4 +10,4 @@ Version: 0.6.0
 Requires:
 Libs: -L${libdir} -ljsoncpp
 Libs.private:
-Cflags: -I${includedir}
+Cflags: -I${includedir}/jsoncpp

@@ -11,7 +11,7 @@ libjsoncpp_la_CPPFLAGS = \
 libjsoncpp_la_LDFLAGS = \
 	-version-info 0:0:0
 
-libjsoncpp_ladir = @includedir@/json
+libjsoncpp_ladir = @includedir@/jsoncpp/json
 
 libjsoncpp_la_HEADERS = \
 	jsoncpp/include/json/json.h \
